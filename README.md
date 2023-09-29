@@ -9,5 +9,5 @@ The output will be written to the `output_file` variable, so make sure to specif
 
 # if ERROR infos = error.decode('utf8')
 
-'''pip install moviepy==2.0.0.dev2'''
+'pip install moviepy==2.0.0.dev2'
 
