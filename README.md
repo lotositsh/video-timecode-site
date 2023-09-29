@@ -8,6 +8,7 @@ To use this code, make sure it is placed in the folder with the video clips. Als
 The output will be written to the `output_file` variable, so make sure to specify the desired name for the output text file.
 
 # if ERROR infos = error.decode('utf8')
-
-'pip install moviepy==2.0.0.dev2'
+\```python
+pip install moviepy==2.0.0.dev2
+\```
 
